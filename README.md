@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kauan Ribeiro
+# 👨🏽‍💻 Kauan Ribeiro
 
 **`Engennheiro de Software`**
 
