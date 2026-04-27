@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Kauan Ribeiro
 
-**`Desenvolvedor de Software`**
+**`Engenheiro de Software`**
 
-Me chamo Kauan Ribeiro, tenho 19 anos e sou natural de Mogi das Cruzes, São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMC (Universidade de Mogi das Cruzes), com foco em engenharia de software, arquitetura de sistemas e modelagem UML. Além da faculdade, atuo como estagiário de suporte tecnológico pelo PROATI/SEDUC, aplicando na prática o conhecimento em tecnologia e infraestrutura.
+Me chamo Kauan Ribeiro, tenho 19 anos e sou natural de Itaquaquecetuba, São Paulo. Atualmente, estou cursando Engenharia de Software na UMC (Universidade de Mogi das Cruzes), com foco em arquitetura de sistemas, análise orientada a objetos e modelagem UML. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área.
 
 ---
 
