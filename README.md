@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software`**
 
-Me chamo Kauan Ribeiro, tenho 19 anos e sou natural de Itaquaquecetuba, São Paulo. Atualmente, estou cursando Engenharia de Software na UMC (Universidade de Mogi das Cruzes), com foco em arquitetura de sistemas, análise orientada a objetos e modelagem UML. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área.
+Me chamo Kauan Ribeiro, tenho 19 anos e sou natural de Itaquaquecetuba, São Paulo. Atualmente, estou cursando Engenharia de Software na UMC (Universidade de Mogi das Cruzes), com foco em arquitetura de sistemas, análise orientada a objetos e modelagem UML. Sou apaixonado por tecnologia e compartilho minhas experiências através do meu perfil no LinkedIn "[Kauan Ribeiro](https://br.linkedin.com/in/kauanribeiro-perfilpublico)".
 
 <p align="left">
         <a href="https://github.com/OhSantip?tab=repositories&sort=stargazers">
